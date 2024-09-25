@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2718020be77902",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5941093d2dc3012f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "44fec74c6d065e13",
         "type": "tabs",
         "children": [
@@ -28,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "37074cabdaf7d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 13.50.40.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 13.50.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 13.50.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-25 13.50.40.excalidraw.md"
+              }
             }
           }
         ]
@@ -154,8 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5941093d2dc3012f",
+  "active": "37074cabdaf7d4fd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-25 13.50.40.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "Welcome.md",
     "README.md"
   ]
